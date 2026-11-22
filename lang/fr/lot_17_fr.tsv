@@ -1,0 +1,168 @@
+2001	Ce personnage ne se fige pas\nquand il attaque.
+2002	L'adversaire défausse une carte\nau hasard.
+2003	Défaussez jusqu'à 2 cartes du\ndessus de la pioche adverse.
+2004	Défaussez votre main, puis\npiochez une carte de plus que le\nnombre défaussé.
+2005	Regardez la main adverse. Vous\npouvez y choisir une carte AC et\nla mettre dans sa défausse.
+2006	Dégelez un personnage figé.
+2007	Un personnage gagne 300 BP.
+2008	Un personnage adverse figé ne\ndégèlera pas à la prochaine\nphase de dégel adverse.
+2009	Si l'attaque de ce personnage\nest parée, piochez une carte.
+2011	Figez le personnage d'en face.
+2012	Mettez KO un autre de vos\npersonnages. Ce personnage\ngagne autant de BP que lui.
+2016	Ce personnage peut attaquer\ndès le tour où il arrive sur le\nterrain (sauf attaque combinée).
+2018	Mettez KO un autre de vos\npersonnages.
+2019	Révélez votre main, puis\ndéfaussez tout sauf les cartes\npersonnage.
+2020	Défaussez une carte AC. Gagnez\n1 SP par carte en main.
+2022	L'adversaire perd 3 SP.
+2024	Mélangez ce personnage dans\nvotre pioche.
+2025	Défaussez votre main. Prenez\nen main une carte de votre\npioche, puis mélangez-la.
+2028	Défaussez une carte\npersonnage à capacité. Un de\nvos personnages l'obtient.
+2029	Regardez jusqu'à 3 cartes du\ndessus de votre pioche et\nremettez-les dans l'ordre voulu.
+2030	Défaussez une carte. Infligez\n200 dégâts à l'adversaire.
+2031	Si l'attaque de ce personnage\nest parée, infligez des dégâts\nperçants à l'adversaire.
+2032	Si ce personnage attaque ou\npare, mettez-le KO à la fin du\ntour.
+2033	Renvoyez ce personnage dans\nvotre main.
+2034	Piochez une carte.
+2035	Gagnez 500 PV.
+2036	À la fin de votre tour, infligez\n200 dégâts à chaque\npersonnage adverse figé.
+2037	Piochez une carte.
+2038	À la fin de votre tour, gagnez\n100 PV.
+2039	Figez un personnage adverse.
+2042	Tous vos personnages (celui-ci\ncompris) gagnent 100 BP.
+2043	Regardez la main adverse.
+2045	Défaussez une carte RE. Piochez\n3 cartes.
+2046	Ce personnage ne peut pas\nparer.
+2047	Aucun personnage ne peut\nutiliser de {1EC}capacité.
+2048	Mettez KO ce personnage.\nChaque joueur défausse sa\nmain.
+2049	Dégelez tous les personnages.
+2051	Mettez KO ce personnage.\nInfligez 500 dégâts à un\npersonnage choisi au hasard.
+2052	L'adversaire saute sa prochaine\nphase de pioche.
+2053	Mettez KO un de vos\npersonnages. Gagnez 200 PV.
+2054	Les cartes AC coûtent 3 SP de\nplus à chaque joueur.
+2055	Mélangez une carte de votre\ndéfausse dans votre pioche.
+2057	Mettez KO vos autres\npersonnages. Gagnez 3 SP par\nKO.
+2059	Ce personnage ne peut ni\nattaquer ni parer.
+2060	Infligez 500 dégâts à\nl'adversaire.
+2061	Infligez 300 dégâts à un\npersonnage adverse ou à\nl'adversaire.
+2062	Infligez 500 dégâts à ce\npersonnage et à un personnage\nadverse.
+2064	Si ce personnage inflige des\ndégâts à l'adversaire, volez-lui\njusqu'à 3 SP.
+2065	Infligez 200 dégâts à un autre\npersonnage.
+2068	Gagnez 3 SP.
+2069	Gagnez 200 PV.
+2072	Mélangez votre pioche ou celle\nde l'adversaire.
+2073	Infligez 200 dégâts à\nl'adversaire.
+2074	Infligez 300 dégâts à ce\npersonnage et à un personnage\nadverse.
+2075	Défaussez une carte AC. Un\npersonnage perd ses capacités\net passe à 100 BP.
+2076	Ce personnage ne peut pas\nparer.
+2077	Renvoyez le personnage d'en\nface dans la main adverse.
+2078	Au prochain tour adverse, les\npersonnages adverses ne\npeuvent pas attaquer.
+2081	Les SP de chaque joueur\ntombent à 0.
+2084	Mettez KO un personnage à\n800 BP ou plus (à défaut,\ncelui-ci).
+2085	Infligez 400 dégâts à un\npersonnage (à défaut, à\ncelui-ci).
+2086	Infligez 300 dégâts à tous les\nautres personnages.
+2089	Au début de votre tour,\ndépensez 2 SP.
+2090	Au début de votre tour, infligez\n100 dégâts à l'adversaire.
+2091	Mettez KO tous les personnages\n(celui-ci compris).
+2092	Défaussez une carte\npersonnage à {1EE}capacité et\nappliquez-en l'effet.
+2095	Annulez toutes les\n{1EE}capacités.
+2097	Tous les personnages (celui-ci\ncompris) perdent leurs\ncapacités.
+2099	À la fin de votre tour, infligez\n200 dégâts à tous les\npersonnages (celui-ci compris).
+2100	Si ce personnage pare une\nattaque combinée, les dégâts\nperçants sont annulés.
+2101	Mettez KO ce personnage.\nGagnez 100 PV par carte en\nmain.
+2103	Défaussez une carte\npersonnage (si vous ne pouvez\npas, mettez KO ce personnage).
+2104	Ce personnage prend les BP\nd'un personnage adverse, s'il y\nen a un sur le terrain.
+2105	Défaussez une carte\npersonnage. Ce personnage\nprend ses BP.
+2108	Renvoyez un de vos\npersonnages (à défaut, celui-ci)\ndans votre main.
+2111	Si ce personnage attaque seul,\nil gagne 200 BP avant la phase\nde parade.
+2112	Si ce personnage pare, piochez\n2 cartes.
+2114	S'il y a un autre personnage sur\nle terrain, renvoyez celui-ci\ndans votre main.
+2116	Défaussez votre main. Infligez\n100 dégâts par carte défaussée\nà tous les autres personnages.
+2120	S'il attaque sans être paré, ce\npersonnage inflige 600 dégâts\nfixes à l'adversaire.
+2121	Mettez KO ce personnage.\nInfligez à l'adversaire 100\ndégâts par carte de sa main.
+2122	Défaussez une carte. Mettez KO\nun personnage à 800 BP ou plus.
+2123	Regardez jusqu'à 5 cartes du\ndessus de la pioche. Gardez-en\nune, défaussez le reste.
+2126	Un personnage doté d'une\ncapacité la perd et gagne\n300 BP.
+2127	Prenez en main un personnage à\n300 BP ou moins de votre\npioche, puis mélangez-la.
+2128	À la fin du tour, dégelez tous\nles personnages.
+2129	Ce personnage ne peut pas être\nparé par un personnage qui a\nplus de BP que lui.
+2130	Placez une carte AC de votre\ndéfausse sur le dessus de\nvotre pioche.
+2131	Le ou les personnages aux plus\nbas BP (lui compris) prennent les\nBP de ce personnage.
+2134	Mettez KO ce personnage.\nGagnez autant de PV que ses\nBP.
+2135	Les cartes AC infligent 100\ndégâts de plus aux joueurs.
+2136	Chaque fois qu'un personnage\nreçoit un renfort, le joueur qui\nrenforce pioche une carte.
+2138	Ce personnage inflige ses BP en\ndégâts au personnage d'en face\net revient dans votre main.
+2139	Ce personnage ne dégèle pas\nlors de la phase de dégel.
+2141	À la fin de votre tour, le\npersonnage d'en face perd ses\ncapacités.
+2142	Si ce personnage attaque,\nl'adversaire ne peut pas jouer\nde carte RE.
+2143	Infligez 200 dégâts à\nl'adversaire.
+2144	Tous les personnages à 300 BP\nou moins gagnent 300 BP.
+2145	Un personnage doté d'une\ncapacité (à défaut, celui-ci) perd\nses capacités.
+2147	L'adversaire pioche 3 cartes.
+2149	Donnez cette capacité à un\nautre personnage.
+2151	Les cartes RE coûtent 2 SP de\nmoins à chaque joueur.
+2153	Si l'attaque de ce personnage\nest parée, l'adversaire\nperd 3 SP.
+2154	Si vous avez 1000 PV ou moins,\npiochez 2 cartes.
+2155	Tout personnage peut utiliser\nses {1EC}capacités dès le tour où\nil arrive sur le terrain.
+2156	Ce personnage obtient la\ncapacité d'un autre personnage.
+2157	Aucun joueur ne peut jouer de\npersonnage à 800 BP ou plus.
+2158	Un personnage gagne ou perd\n300 BP (au hasard).
+2159	Renvoyez dans la main de son\npropriétaire un personnage à\n{1EE}capacité (à défaut, celui-ci).
+2160	Un personnage obtient une des\ncapacités existant dans le jeu.
+2161	Défaussez 2 cartes. Infligez\n500 dégâts à un personnage.
+2162	Ce personnage ne se fige pas\nquand il attaque.
+2163	Dépensez tous vos SP. Tous les\nautres personnages passent à\n100 BP.
+2164	Annulez toutes les\n{1EE}capacités.
+2165	Chaque joueur pioche 2 cartes.
+2166	Chaque joueur défausse jusqu'à\n5 cartes du dessus de sa\npioche.
+2167	Regardez la carte du dessus de\nvotre pioche. Vous pouvez la\nplacer sous votre pioche.
+2171	Les joueurs se montrent leur\nmain, puis défaussent toutes\nleurs cartes AC.
+2172	Prenez en main une « Juni » et\nune « Juli » de votre pioche,\npuis mélangez-la.
+2177	Regardez la main adverse.\nPlacez-en une carte sur le\ndessus ou sous sa pioche.
+2178	Mettez KO le personnage d'en\nface.
+2179	Défaussez une carte. Infligez\n300 dégâts à un personnage.
+2180	Regardez jusqu'à 3 cartes du\ndessus de la pioche adverse.\nMettez-en 2 dans sa défausse.
+2181	Si l'adversaire a 1 personnage\nou moins, ce personnage ne\npeut pas être paré.
+2182	Piochez 4 cartes, puis\ndéfaussez 3 cartes.
+2187	L'adversaire perd 6 SP.
+2188	Si vous avez 1000 PV ou moins,\nles BP de ce personnage\ndoublent.
+2189	Mélangez toutes les cartes AC\nde votre défausse dans votre\npioche.
+2191	Si l'attaque de ce personnage\nest parée, infligez 200 dégâts à\nl'adversaire.
+2194	Défaussez une carte\npersonnage. Gagnez autant de\nSP que sa valeur en SP.
+2195	S'il inflige des dégâts à\nl'adversaire, ce personnage lui\ninterdit les AC au tour suivant.
+2198	À la fin de votre tour, piochez\nune carte si vous avez moins de\ncartes en main que l'adversaire.
+2199	Au début de votre tour, ce\npersonnage gagne 100 BP.
+2200	Défaussez une carte. Gagnez\n200 PV.
+2201	Un de vos personnages et un\npersonnage adverse gagnent\n300 BP.
+2203	Si ce personnage pare une\nattaque combinée, les dégâts\nperçants sont annulés.
+2204	À la fin de votre tour, chaque\njoueur défausse jusqu'à 2\ncartes du dessus de sa pioche.
+2205	Si ce personnage pare, il prend\nles BP de l'attaquant (leur total\nen cas d'attaque combinée).
+2206	Au début de votre tour, chaque\njoueur perd 1 SP par carte dans\nsa main.
+2209	Mettez KO un personnage figé.
+2210	Mettez KO un de vos\npersonnages. Piochez une carte.
+2211	Si ce personnage inflige des\ndégâts à l'adversaire, gagnez\nautant de PV.
+2212	Mettez KO un de vos\npersonnages. Gagnez 8 SP.
+2213	Ce personnage gagne ou perd\n300 BP (au hasard).
+2216	Piochez une carte AC prise au\nhasard dans votre pioche.
+2218	Mettez KO vos autres\npersonnages. Ce personnage\ngagne 300 BP par KO.
+2219	Tous les personnages (celui-ci\ncompris) perdent leurs\ncapacités.
+2220	Tous les personnages qui\nreçoivent un renfort gagnent\n200 BP.
+2222	À la fin de votre tour, si vous\navez moins de SP que\nl'adversaire, gagnez 3 SP.
+2223	Mélangez ce personnage et\nvotre main dans votre pioche,\npuis piochez 3 cartes.
+2224	Défaussez une carte. Ce\npersonnage gagne 300 BP.
+2225	Si ce personnage inflige des\ndégâts à l'adversaire, piochez\nune carte.
+2226	Mettez KO un autre personnage.\nMélangez ce personnage dans\nvotre pioche.
+2227	Prenez en main toutes les\n« Q-Bee » de votre pioche, puis\nmélangez-la.
+2228	Mélangez toutes les cartes\npersonnage de votre défausse\ndans votre pioche.
+2229	Révélez votre main, défaussez\nles cartes AC. Ce personnage\ngagne 200 BP par carte.
+2231	Aucun personnage ne peut\nutiliser de {1EC}capacité.
+2232	Renvoyez un de vos\npersonnages (à défaut, celui-ci)\ndans votre main.
+2233	Mettez KO ce personnage et un\npersonnage adverse.
+2234	Dépensez 10 SP (si vous en avez\nmoins de 10, mettez KO ce\npersonnage).
+2235	Révélez votre main, puis\ndéfaussez tout sauf les cartes\npersonnage.
+2237	Piochez une carte de la pioche\nadverse, puis mettez une carte\nde votre main dans sa défausse.
+2238	La prochaine carte AC que\nvous jouez ce tour-ci ne\ncoûte pas de SP.
+2241	Tout personnage peut utiliser\nses {1EC}capacités dès le tour où\nil arrive sur le terrain.
+2242	Les cartes AC coûtent 2 SP de\nmoins à chaque joueur.
+2243	Un personnage gagne 200 BP.
+2244	Révélez votre pioche jusqu'à une\ncarte AC. Prenez-la en main,\ndéfaussez le reste.
+2246	Si l'adversaire a 3 personnages\nsur le terrain, les BP de ce\npersonnage doublent.

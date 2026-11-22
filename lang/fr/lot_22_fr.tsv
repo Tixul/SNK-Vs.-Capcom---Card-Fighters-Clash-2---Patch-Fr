@@ -1,0 +1,196 @@
+0000	Temps de jeu\nAlbum
+0014	« {12} », OK ?\n{0C}
+0015	Entre ton nom.\n(OPTION : terminer)
+0016	C'est bon ?\n{0C}
+0017	Les données actuelles\nseront effacées.\nContinuer ?\n{0D}
+0018	Abandonner la saisie ?\n{0D}
+0019	abc@@@@123@@@@Fin
+0020	123@@@@ABC@@@@Fin
+0021	ABC@@@@abc@@@@Fin
+0026	Une nouvelle partie effacera\nles données de cette partie.\nContinuer ?\n{0D}
+0027	Vous confirmez vraiment ?\n{0D}
+0028	Données de jeu effacées.
+0029	Annulé.
+0030	Sauvegarder ?\n{0D}
+0031	Sauvegarde effectuée.
+0032	Une erreur est survenue\npendant la sauvegarde.\nRéessayer ?\n{0C}
+0033	Sauvegarde en cours.\nN'éteignez pas la console.
+0035	{1E7}Ses renforts
+0040	1@\n2@\n3@\n4@
+0041	@Créer un deck@@Deck utilisé\n@Album cartes@@@Nom deck
+0042	Créer un nouveau deck
+0043	Le deck {14} servira\ndésormais pour les duels !
+0044	@@Manuel@@@@@@Auto\n@@@@@@@@@@@@Hasard
+0045	Il faut au moins 50 cartes\npour composer un deck.
+0046	Il faut 50 cartes personnage\npour un deck automatique.
+0047	Vous n'avez aucun deck.\nCréez un deck à utiliser.
+0048	Album de cartes
+0049	Total@
+0050	Modifier le deck
+0051	Valider@@Annuler@@Vider
+0052	OPTION : trier
+0053	Le deck n'a pas 50 cartes.
+0054	Voulez-vous défaire ce deck ?\n{0D}
+0055	C'est votre seul deck :\nimpossible de le défaire.
+0056	Deck
+0062	Choisissez la carte\nà montrer à Zet.
+0063	Cartes obtenues
+0064	Choisissez une carte à voir.\n(B : terminer)
+0065	Choix de la carte
+0066	Valider
+0067	Valider@@@@@@@Non
+0068	Choisissez la carte à mettre\ndans la machine à sous.
+0069	Renfort ALL
+0070	Carte Action@@
+0071	Carte Réaction@
+0072	Sans capacité
+0073	Description
+0074	Texte carte@@@
+0119	@@@V@@@@D
+0120	@Nombre
+0121	{257}{249}{24E}
+0160	Options
+0161	Vit. messages\nAnimations@@\nObjets@@@@@\nAide menus@\nCadres\nCouleurs@
+0162	Quitter
+0165	Change la vitesse d'affichage\ndes messages.
+0166	Active ou non les animations\nd'attaque et de parade.
+0167	Change le style du cadre\ndes fenêtres.
+0168	Change la couleur\ndes fenêtres.
+0170	Lente
+0171	Normale
+0172	Rapide
+0173	Oui
+0174	Non
+0175	Cadre 1
+0176	Cadre 2
+0177	Cadre 3
+0178	Cadre 4
+0179	Cadre 5
+0180	Cadre 6
+0181	Cadre 7
+0182	Cadre 8
+0183	Bleu@@
+0184	Rouge@
+0185	Vert@
+0186	Noir@
+0187	Jaune@
+0188	Violet@
+0189	Orange@
+0190	Gris@@
+0191	Utiliser@
+0192	Ne pas utiliser
+0200	Choisissez la carte à mettre\ndans la machine d'échange.
+0201	La mettre dans la machine ?\n{0C}
+0205	Rareté@@@@@@@@@*
+0220	$
+0221	+@@@@@@$
+0222	@Rachat :@@@@@$@
+0225	{M 03 00 01 0b}{I 05 01 00 00 01 01}Vendre\n{I 0a 01 01 01 00 00}Annuler\n{I 00 00 00 00 00 00}{12} x{18}\n
+0226	Merci beaucoup !
+0227	Nous ne pouvons pas\nen racheter davantage.
+0351	Deck@@@@Perso\nMain@@@@Carte AC\nPioche@@@Carte RE\nDéfausse@@Attaque\nBP@@@@@Combo 1\nSP@@@@@Combo 2\nPV@@@@@Parer
+0352	Terrain@@@Tour\nFigé@@@@Phase\nRenfort 1@@Phase 1\nRenfort 2@@Phase 2\n{1EE}Capacité@Phase 3\n{1EC}Capacité@Phase 4\n{1ED}Capacité@Règles
+0355	@@@@sortes
+0356	Confirmer ?\n{0C}
+0357	Cartes à donner
+0358	Carte à donner
+0359	Donner@@@@@@@Non
+0360	Carte reçue !\n(B : terminer)
+0500	Configurez le Versus.\n(A : valider)
+0503	Une fois prêts, l'un des deux\njoueurs appuie sur A.
+0504	Erreur de communication.\nVérifiez la connexion.
+0505	L'échange a échoué.\nÉchange annulé.
+0506	Erreur de sauvegarde.\n\nEn l'état, vos données\nseront perdues.\nSauvegardez ensuite\ndepuis le menu.
+0507	L'échange a échoué.\nÉchange annulé.\nErreur de sauvegarde.\n\nEn l'état, vos données\nseront perdues.\nSauvegardez ensuite\ndepuis le menu.
+0508	Erreur de communication.\nDuel annulé.
+0509	Erreur de communication.\nDuel annulé.\nErreur de sauvegarde.\n\nEn l'état, vos données\nseront perdues.\nSauvegardez ensuite\ndepuis le menu.
+0510	Choisissez la carte\nà donner à l'autre joueur.
+0511	Carte donnée.
+0512	Carte reçue.
+0513	Aucune carte reçue.
+0515	Que le duel commence !\nBonne chance à tous les deux !
+0516	Commencer le duel ?\n{0C}
+0517	Cartes reçues
+0520	Victoire de {10} !\nPrix : « {12} »
+0521	Victoire de {11} !\nPrix : « {12} »
+0522	Victoire de {10} !\nLe cadeau de {11}\npour {10}\nest…
+0523	Victoire de {11} !\nLe cadeau de {10}\npour {11}\nest…
+0524	« {12} » !
+0525	Choisissez une carte\nà ajouter à votre deck.
+0526	L'adversaire modifie son deck.
+0529	Communication…
+0530	Carte perso pour l'adversaire :\n« {12} »
+0531	Carte Action pour l'adversaire :\n« {12} »
+0532	Carte RE pour l'adversaire :\n« {12} »
+0533	Carte personnage perdue :\n« {12} »
+0534	Carte Action perdue :\n« {12} »
+0535	Carte Réaction perdue :\n« {12} »
+0550	Test choix 2-1\n{09}Choisissez une carte.\nVictoire de {10} !\n
+0551	{09}Erreur de communication.\nL'échange continue.\n
+0552	{0A}Las Vegas\n« SC Hotel »\nRareté D\n
+0556	Une partie de l'Histoire\nest en cours.\nLa reprendre ?\n{0C}
+0557	Les données non sauvegardées\nseront perdues.\nContinuer ?\n{0D}
+0558	Un duel contre {11}\nest en cours.\nReprendre le combat ?\n{0C}
+0559	Les données non sauvegardées\nseront perdues.\nConfirmer ?\n{0D}
+0560	{08 09}Choisis la carte que tu veux !\nJe te l'échange contre 3 cartes\nde même rareté ou plus !
+0561	Épuisé
+0562	Rareté D
+0563	Rareté C
+0564	Rareté B
+0565	Rareté A
+0566	Rareté S
+0567	Choisissez la carte à donner\npour « {12} »
+0568	{08 09}Tu échanges cette carte ?\n{0C}
+0569	Carte personnage obtenue :\n« {12} »
+0570	Carte Action obtenue :\n« {12} »
+0571	Carte Réaction obtenue :\n« {12} »
+0572	{08 0A}Choisis la rareté des cartes\nà mettre dans la machine, aru !
+0573	Choisissez la carte à mettre\ndans la machine d'échange.
+0574	{08 0A}Je mets cette carte, aru ?\nPas de retour possible, ne !\n{0C}
+0575	Recherche de carte…
+0576	Une carte est sortie !
+0578	{08 09}Grandes soldes aujourd'hui !\nN'importe quelle carte contre\n3 cartes de rareté C ou plus !
+0581	Carte à donner
+0582	Carte voulue
+0583	Vous obtenez {18} cartes\n« {12} ».
+0584	*8 cartes
+0585	*4 cartes
+0588	est sortie !
+0590	{08 02}Quel deck préférez-vous ?\nIls se valent à peu près, alors\nchoisissez selon vos goûts !
+0591	{08 02}Le deck SNK, ça vous va ?\n{0C}
+0592	{08 02}Le deck CAPCOM, ça vous va ?\n{0C}
+0600	Initialisation sans fil…
+0603	La carte réagit…\n« {12} »
+0604	{12} devient\n« {12} » !
+0605	Si ce point vous convient,\nappuyez sur A.
+0606	{12} intacte.
+0608	>>>>>>>>>>
+0610	Communication…
+0611	Une fois prêts, l'un des deux\njoueurs appuie sur A.
+0615	Vous pouvez fixer un handicap\nde PV selon la rareté.\nAppliquer un handicap ?\n{0C}
+0616	Choisissez les PV.
+0617	Le duel se jouera avec ces PV.\n\nConfirmer ?\n{0C}
+0618	Nouveau choix des PV.
+0619	L'adversaire choisit ses PV.
+0650	Erreur de sauvegarde.\nRetour à l'écran titre.
+0657	Pour donner une carte, il faut\nau moins 1 carte hors du deck.
+0658	Après la communication,\nla partie sera sauvegardée.\nConfirmer ?\n{0D}
+0659	Choisissez la carte\nà donner à l'autre joueur.
+0670	Attente de connexion…
+0676	Communication réussie avec\n« CAPCOM VS. SNK2 ».
+0677	Échec de la liaison DC.\nRecommencez depuis le début.
+0681	Veuillez lancer\n« CAPCOM VS. SNK2 ».
+0760	Carte personnage SNK :\n« {12} »
+0761	Carte personnage CAPCOM :\n« {12} »
+0762	Carte Action :\n« {12} »
+0763	Carte Réaction :\n« {12} »
+0764	Aucun lot.
+0771	{08 09}Hé ho, t'as déjà le max de\n« {12} » !
+0800	{M 03 00 01 0b}{I 01 00 00 02 00 01}Menu cartes\n{I 0b 00 01 01 00 01}Sauvegarde\n{I 01 01 00 02 02 01}Menu principal\n
+0890	{19}Versus
+0891	Paquet « {15} »
+0895	{M 06 00 02 0b}{I 01 00 03 03 02 01}Main\n{I 07 00 04 04 00 02}Examiner\n{I 0e 00 05 05 01 00}Aide\n{I 01 01 00 00 05 04}Attaque\n{I 07 01 01 01 03 05}Capacité\n{I 0e 01 02 02 04 03}Fin\n
+0896	{M 03 00 01 0b}{I 01 01 00 00 00 01}« {12} »\n{I 09 01 01 01 00 01}« {13} »\n{I 00 00 00 00 00 00}Main de {10}\n
+0897	Êtes-vous prêt ?\n{0C}
+0898	{M 04 00 01 0b}{I 01 01 00 02 00 01}« {12} »\n{I 09 01 01 02 00 01}« {13} »\n{I 01 02 00 02 02 01}3e ligne\n{I 00 00 00 00 00 00}Main de {10}\n
+0899	Un match amical va avoir\nlieu ! Le gagnant recevra\nune carte au hasard !

@@ -1,0 +1,7 @@
+out/
+*.ngc
+*.ngp
+__pycache__/
+*.tmp
+tools/asm/*.p
+tools/asm/*.lst

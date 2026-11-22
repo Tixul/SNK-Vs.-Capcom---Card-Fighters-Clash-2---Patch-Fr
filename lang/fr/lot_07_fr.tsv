@@ -1,0 +1,96 @@
+4833	{08 00}Zet ! À nous deux !!
+4834	{08 16}Ma victoire éclatante, je te l'offre, Honey !
+4835	{08 80}………
+4836	{08 02}Toujours fidèle à lui-même… !
+5000	{08 02}Ouf, on est vraiment bien, au local du club !
+5001	{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 04 04 04 04}On s'entraîne avec Haruna ?\n
+5002	Alors… Que le duel de caaartes commence !
+5003	Ah bon ? Alors, allons ailleurs !
+5004	{08 02}Hihiii ! C'est Haruna qui gagne ! Youpiii !
+5005	{08 02}Haruna a perdu ! Alors, en récompense, Haruna vous donne cette carte !
+5006	{08 02}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}On s'entraîne encore une fois ?\n
+5010	{08 08}Notre amour sera éternel !!\n(Zip zip zip zip zip zip !)
+5011	{08 00}Raah ! Tu vas me lâcher, oui ?!
+5020	{08 00}Tiens ? Haruna n'est pas là… ¶ Bon, allons ailleurs…
+5030	{08 02}Ouiii ! Nous voilà de retour dans notre château ! On va se reposer un petiiit peu !
+5031	{08 02}{M 04 00 13 0b}{I 01 01 03 03 01 01}Affronter Haruna\n{I 0a 01 01 01 00 00}Affronter Zet\n{I 00 00 04 04 04 04}Que voulez-vous faire ?\n{I 01 02 00 00 01 01}Rien\n
+5032	{08 02}Ah bon ? Alors, allons ailleurs !
+5035	{08 02}{M 05 00 13 0b}{I 01 01 02 02 01 01}Affronter Haruna\n{I 0a 01 03 03 00 00}Affronter Zet\n{I 01 02 00 00 03 03}Astuce renforts\n{I 0a 02 01 01 02 02}Rien\n{I 00 00 04 04 04 04}Que voulez-vous faire ?\n
+5040	{08 02}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 04 04 04 04}On s'entraîne avec Haruna ?\n
+5041	Alors… Que le duel de caaartes commence !
+5042	Oh, vraiment ? Bon, alors…
+5043	{08 02}Hihiii ! C'est Haruna qui gagne ! Youpiii !
+5044	{08 02}Haruna a perdu ! Alors, en récompense, Haruna vous donne cette carte !
+5050	{08 16}{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Pas encore !\n{I 00 00 04 04 04 04}Je ne vais pas te ménager !\n{I 00 01 04 04 04 04}Tu es prêt ?\n
+5051	Bien, commençons.
+5052	Ah bon ? Enfin, je ne vais pas te forcer.
+5053	{08 16}Quoi, c'est tout ? Je pensais que tu ferais mieux que ça.
+5054	{08 16}Tu te défends plutôt bien, dis donc ! Tiens, cette carte est pour toi.
+5080	{08 16}Salut, {10}. Tu as l'air de t'ennuyer. ¶ Tu as réussi à compléter tous les « renforts » ? Avec autant de combinaisons, ça doit être un sacré boulot.
+5081	{08 16}Hm ! Mais dis donc, {10}, tu as tous les renforts à 100 % ? ¶ Bien joué ! Je te regarde d'un autre œil, maintenant ! ¶ Par contre, je ne t'ai préparé aucun cadeau. ¶ Je ne pensais vraiment pas que tu les compléterais tous. ¶ Mais après un tel exploit, repartir les mains vides… ce serait dur. ¶ Bon, alors à la place, je vais te confier une information de premier choix que j'ai dénichée. ¶ Tu connais la machine d'échange du Lost World, je suppose ? ¶ Certaines combinaisons de cartes qu'on y met font apparaître une carte rare, ¶ et apparemment, ces cartes sont……… ¶ la carte Action de Tsukushi, le petit frère de Sakura, de Street Fighter. ¶ La carte Action du duo Geese et Bison. ¶ Et enfin, la carte Réaction de Grandmaster, le boss final de Strider. ¶ Il suffit de mettre dans la machine d'échange des cartes personnages qui ont un lien avec eux pour obtenir la carte. ¶ Pour « Tsukushi » : 2 exemplaires de 2 cartes différentes de rareté C. ¶ Pour « Geese & Bison » : 1 exemplaire de 4 cartes différentes de rareté C. ¶ Pour « Grandmaster » : 8 exemplaires d'une même carte de rareté D. ¶ C'est tout ce que je peux te dire. Pour le reste, {10}, à toi de tester par toi-même. ¶ Je n'ai plus rien à t'apprendre. Enfin, tu auras peut-être encore besoin d'une astuce sur les renforts un de ces jours.
+5082	{08 16}Si tu veux, je peux te donner un indice sur les renforts encore marqués « ? ».
+5083	{08 16}Si tu veux une astuce sur les renforts, viens me voir quand tu veux. ¶ Ça m'occupera.
+5090	{08 16}{M 04 00 11 0b}{I 04 02 00 00 00 01}Oui\n{I 0b 02 01 01 00 01}Non merci\n{I 00 00 04 04 04 04}Un indice sur les renforts\n{I 00 01 04 04 04 04}encore marqués « ? » ?\n
+5091	Bien, alors montre-moi une carte.
+5092	Ah, bon. Moi, ça m'est égal. Mais on gagne toujours à accepter un coup de main.
+5093	{08 16}{M 03 00 11 0b}{I 05 02 00 00 00 01}Oui\n{I 0b 02 01 01 00 01}Non\n{I 00 00 04 04 04 04}Tu veux savoir autre chose ?\n
+5094	{08 16}Bon, avec tes renforts à 100 %, ça ne te concerne plus. ¶ Au fait, n'oublie pas les combinaisons de la machine d'échange. ¶ Pour « Tsukushi » : 2 exemplaires de 2 cartes différentes de rareté C. ¶ Pour « Geese & Bison » : 1 exemplaire de 4 cartes différentes de rareté C. ¶ Pour « Grandmaster » : 8 exemplaires d'une même carte de rareté D. Retiens bien ça.
+5095	{08 16}Ça t'a servi ? ¶ Si tu veux une astuce sur les renforts, viens me voir quand tu veux. ¶ Ça m'occupera.
+5100	{08 03}Le parc Joyful me paraît louche… Mais regarde plutôt ! Lasso-kun a encore grandi.
+5101	{08 00}Mouais… Il a toujours l'air aussi insolent, cet écureuil…
+5110	{08 03}Oh ? Quelle bonne surprise !
+5111	{08 03}{M 03 01 11 0b}{I 04 02 00 00 00 01}Oui !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Un duel de cartes avec moi ?\n
+5112	Allons-y, d'accord ?
+5113	Reviens quand tu auras un moment, d'accord ?
+5114	{08 03}C'est moi qui gagne ! Ça m'a un peu rappelé le bon vieux temps.
+5115	{08 03}Oh ? J'ai perdu ? Alors, je te donne cette carte, d'accord ?
+5116	{08 03}{M 04 01 11 0b}{I 04 02 00 00 00 01}Oui !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Alors ?\n{I 00 01 00 00 00 00}On refait un duel de cartes ?\n
+5120	{08 03}Oh ? {10}-kun ?
+5121	{08 00}Madame ! Là, je suis un peu pressé… !!
+5122	{08 08}Je vais vous tuer, et mourir avec vous !\n(Zip zip zip zip zip zip !)
+5123	{08 03}…On dirait vraiment que tu es occupé, hein ?
+5130	{08 03}Oh ? Où est passée Haruna-chan ?
+5131	{08 00}Euh, on s'est un peu perdus de vue…
+5140	{08 00}Tiens ? Mme Lip n'est pas là… C'est rare… ¶ Oups, il faut vite que j'y retourne !
+5145	{08 03}Oh là là, si on ne se dépêche pas, la fête va être finie ! Allons au CP, sur le port !
+5170	{08 13}Haaa… Ce thé est délicieux, n'est-ce pas ?
+5171	{08 00}Ah ! Gemanto Lady !
+5172	{08 03}Hein ? Gemanto Lady ? Où ça ? Où ça ?
+5173	{08 00}Hein ? C'est bizarre… Pendant un instant, je vous ai prise pour Gemanto Lady, Madame…
+5174	{08 03}{10}-kun, tu as l'air fatigué. Et si tu te reposais un peu ?
+5175	{08 00}Je veux bien…
+5176	{08 03}Oh ? {10}-kun, regarde là-bas !
+5177	{08 00}Hein ? Quoi ?! Où ça, où ça ?!
+5178	{08 00}…Mais il n'y a rien…
+5179	{08 13}Oh ho ho ho ho ho ho ho ho ho !
+5180	{08 00}Waah ! Gemanto Lady !! Depuis quand vous êtes là ?!
+5181	{08 13}Depuis que tu as la tête dans les nuages ! …Au fait, Mme Lip est partie : elle avait une course à faire !
+5182	{08 00}Waouh, quelle rapidité… Décidément, Mme Lip est redoutable !
+5183	{08 13}{10}-kun, en duel ! …Et cette fois, j'applique une règle spéciale ! ¶ Ton deck et le mien seront tirés au hasard parmi les 424 cartes du jeu ¶ et mélangés ! Frissons garantis !
+5187	{08 13}Allez ! En duel !
+5188	{08 13}C'était serré ! La prochaine fois, qui sait comment ça tournera !
+5189	{08 13}Tu te défends bien… Mais tu as encore du chemin à faire ! Continue de t'entraîner !
+5190	{08 13}Si tu veux m'affronter de nouveau, choisis « Duel libre » dans le menu principal ! ¶ Place le curseur sur Mme Lip, et appuie sur le bouton OPTION ! ¶ Sur ce… au revoir !
+5191	{08 13}Oh ho ho ho ho ho ho ho ho ho !
+5192	{08 80}…………
+5193	{08 00}…Pff, Gemanto Lady comme Neomanto, ils en ont, du souffle, pour rire aussi longtemps… ¶ Mme Lip ne revient pas… Je ferais bien d'y aller…
+5200	{08 02}Il n'y a personne… Allons ailleurs !
+5210	{08 04}Hein ? …Ah, c'est le club de cartes à la noix… On est occupés, nous ! ¶ …Mais si t'y tiens vraiment, j'veux bien t'affronter !
+5211	{08 04}{M 05 00 13 0b}{I 01 01 02 02 01 01}Affronter Torawo\n{I 0a 01 03 03 00 00}Affronter Dogou\n{I 01 02 00 00 03 03}Affronter Asou\n{I 0a 02 01 01 02 02}Rien\n{I 00 00 04 04 04 04}Tu veux quoi ?\n
+5212	{08 04}Si t'as rien à faire ici, dégage ! Nananère !!
+5220	{08 04}{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}T'as du cran, toi !\n{I 00 01 00 00 00 00}À nous deux !\n
+5221	{08 04}Un seul coup, et c'est plié !!
+5222	{08 04}T'es vraiment pas drôle ! Si c'est comme ça…
+5223	{08 04}Nwa ha ha ha ha ha ha ha ha ha ! C'est moi qui gagne ! Alors, t'as ton compte ? Minable !
+5224	{08 04}J'ai perdu… Tiens, prends-la, voleur ! Mais la prochaine fois, c'est moi qui gagne !!
+5230	{08 05}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Je veux bien t'affronter…\n
+5231	{08 05}Finissons vite…
+5232	{08 05}Comme tu veux…
+5233	{08 05}Enfin fini…
+5234	{08 05}Tiens, cette carte…
+5240	{08 06}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}On joue, hein ?\n
+5241	{08 06}Vous ne pouvez pas me battre, hein !
+5242	{08 06}Je ne poursuis pas ceux qui s'enfuient, hein !
+5243	{08 06}Héhéhéhéhé ! Et voilà le travail, hein !
+5244	{08 06}Ouiiiiin ! J'ai perdu, hein ! Mes cartes à moi… !
+5250	{08 02}Il n'y a personne… ¶ Torawo-chan et les autres sont toujours à la poursuite de Robomanto-san, vous croyez ?

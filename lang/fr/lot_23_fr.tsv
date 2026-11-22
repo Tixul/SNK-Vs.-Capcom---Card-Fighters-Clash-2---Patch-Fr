@@ -1,0 +1,215 @@
+1000	@@Parer@@@@@@Terrain\n@@Ne pas parer
+1001	@@Solo@@@@@@Combo 2
+1002	@@Solo@@@@@@Combo 2\n@@@@@@@@@@@Combo 3
+1003	@Utiliser\n@Infos
+1004	@Main@@@Examiner@@Aide\n@Attaque@Capacité@@Fin
+1005	@@Terrain@@@@Défausse\n@@Situation@@@Déf. adv.
+1006	{12} : renfort OK
+1007	{12} utilise\n« {13} » !
+1008	{12} en renfort !
+1009	@attaque !
+1010	{12} renforcé !
+1011	{12} arrive !
+1012	Dégel des personnages\nde {10}.
+1013	Dégel des personnages\nde {11}.
+1014	Au tour de {10}.
+1015	Au tour de {11}.
+1016	{10} joue\n« {12} ».
+1017	{11} joue\n« {12} ».
+1018	{10} pioche une carte.
+1019	{11} pioche une carte.
+1020	Aucune {1EC} capacité utilisable.
+1021	Qui utilise sa {1EC} capacité ?
+1022	Choisissez le 2e personnage.
+1023	SP insuffisants !\n(Coût : {18})
+1024	{18} SP dépensés.
+1025	Chacun pioche 5 cartes.
+1026	Choisissez une carte.
+1027	Choisissez une carte.\n(OPTION : trier)
+1028	Choisissez un personnage.
+1029	Il ne peut pas renforcer.
+1030	Il n'a pas de {1EC} capacité.
+1031	Ce personnage est déjà paré.
+1032	Il est déjà choisi en 1er.
+1033	Ce personnage n'attaque pas.
+1034	Personnage tout juste posé :\nrenfort impossible.
+1035	Personnage tout juste posé :\n{1EC} capacité impossible.
+1036	Personnage tout juste posé :\nattaque impossible.
+1037	Plus personne à parer.
+1038	Fin du tour.
+1039	Quel personnage parer ?
+1040	Choisissez qui renforcer.
+1041	Défausse remise dans la pioche !
+1042	Un seul renfort par tour.
+1043	Choisissez qui va parer.
+1044	Parer cette attaque ?\n@@@Oui@@@@@@@Non
+1045	Sans effet.
+1046	Choisissez qui attaque.
+1047	Personne ne peut attaquer.
+1048	Lancer l'attaque ?\n@@@Oui@@@@@@@Non
+1049	Figé : renfort impossible.
+1050	Figé : {1EC} capacité impossible.
+1051	Figé : parade impossible.
+1052	Figé : attaque impossible.
+1053	Aucune carte à poser dessus.
+1054	La pioche est vide !
+1055	Mélange de la pioche.
+1056	Choisissez votre personnage.
+1057	Choisissez votre terrain.
+1058	La défausse est vide.
+1059	Votre main est vide.
+1060	Choisissez un emplacement.
+1061	Aucun personnage en jeu.
+1062	Premier joueur : {10} !
+1063	Premier joueur : {11} !
+1064	Tirage du premier joueur.
+1065	Choisissez un ennemi.
+1066	Duel unique, sans revanche !
+1067	En attente…
+1068	Pas de carte personnage\ndans la pioche de {10} !
+1069	Pas de carte personnage\ndans la pioche de {11} !
+1070	Pas de carte AC\ndans la pioche de {10} !
+1071	Pas de carte AC\ndans la pioche de {11} !
+1072	Choisissez la carte AC\nà poser sur la pioche.
+1073	Choisissez la carte personnage\nà poser sur la pioche.
+1074	{1ED} capacité :\n{18} SP dépensés.
+1075	Choisissez le 1er personnage.
+1076	Impossible de choisir celui-ci.
+1077	Choisissez une cible.\n(Vos personnages)
+1078	Choisissez une cible.\n(Personnages adverses)
+1079	Choisissez une cible.\n@@@Ma pioche@@@@Sa pioche
+1080	Choisissez une cible adverse.\n@@@Personnage@@Joueur
+1081	Choisissez une cible.
+1082	Confirmer ?\n@@@Oui@@@@@@@Non
+1083	@Valider\n@Infos
+1084	Choisissez la {18}e carte à\nlaisser dans la pioche.
+1085	Choisissez la carte à remettre\ndans la pioche (reste {18}).
+1086	Choisissez la carte à remettre.
+1087	{12} sans capacité
+1088	Choisissez la carte AC à utiliser.
+1089	Choisissez l'effet à utiliser.
+1090	Choisissez une AC à défausser.
+1091	Choisissez la carte à défausser\n(reste {18}).
+1092	Choisissez la carte à défausser.
+1093	Choisissez quoi prendre en main.
+1094	Aucun personnage adverse.
+1095	Choisissez la carte à placer\nen {18}e position.
+1096	« {12} »\nfait son effet !
+1097	« {13} »\nfait son effet !
+1098	{12} obtient la\ncapacité « {13} » !
+1099	Cartes AC interdites\npendant ce tour !
+1100	{1ED} capacité :\n« {13} » annulé !
+1101	{18} dégâts aux\npersonnages figés !
+1102	{1ED} capacité :\nil ne peut pas parer !
+1103	{1ED} capacité :\non ne peut pas le parer !
+1104	Attaque impossible ce tour-ci !
+1105	{1ED} capacité :\n{1EC} capacités bloquées !
+1106	{1ED} capacité :\nil ne peut pas attaquer !
+1107	{12} va sur\nla pioche de {10} !
+1108	{12} va sur\nla pioche de {11} !
+1109	{12} utilise\n« {13} ».
+1110	{12} et\n{12} en main !
+1111	{12} et\n{12} sont KO !
+1112	{12} et\n{12} : -{18} !
+1113	Tous KO sauf {12}\net {12} !
+1114	{12} : -{18} !
+1115	{12} : BP modifiés !
+1116	{12} devient\n{12} !
+1117	{12} affaibli !
+1118	{12} est figé.
+1119	Personnages dégelés !
+1120	{12} en pioche !
+1121	{12} en main !
+1122	{12} est KO !
+1123	{12} restera\nfigé à la phase de dégel !
+1124	Dégâts à tous les personnages\nsauf {12} !
+1125	Les personnages de {10}\nsont renforcés !
+1126	Les personnages de {11}\nsont renforcés !
+1127	{10} perd {18} PV !
+1128	{11} perd {18} PV !
+1129	{10} perd {18} SP !
+1130	{11} perd {18} SP !
+1131	Les personnages de {10}\nsubissent {18} dégâts !
+1132	Les personnages de {11}\nsubissent {18} dégâts !
+1133	Rien à prendre en main\ndans la pioche de {10} !
+1134	Rien à prendre en main\ndans la pioche de {11} !
+1135	Le dessus de la pioche\nde {10} passe dessous !
+1136	Le dessus de la pioche\nde {11} passe dessous !
+1137	Le dessus de la pioche de\n{10} change de carte !
+1138	Le dessus de la pioche de\n{11} change de carte !
+1139	{10} défausse des cartes\nde sa pioche !
+1140	{11} défausse des cartes\nde sa pioche !
+1141	Le dessus de la pioche\nde {10} est révélé !
+1142	Le dessus de la pioche\nde {11} est révélé !
+1143	La pioche de {10} change !
+1144	La pioche de {11} change !
+1145	Mélange de la pioche\nde {10}.
+1146	Mélange de la pioche\nde {11}.
+1147	Rien à remettre en pioche\ndans la défausse de {10} !
+1148	Rien à remettre en pioche\ndans la défausse de {11} !
+1149	{10} défausse\nune carte de sa main !
+1150	{11} défausse\nune carte de sa main !
+1151	{10} n'a rien en main !
+1152	{11} n'a rien en main !
+1153	La main de {10} change !
+1154	La main de {11} change !
+1155	{10} prend\n{12} en main !
+1156	{11} prend\n{12} en main !
+1157	{10} prend\nune carte en main !
+1158	{11} prend\nune carte en main !
+1159	{10} pioche une carte !
+1160	{11} pioche une carte !
+1161	{10} gagne {18} PV !
+1162	{11} gagne {18} PV !
+1163	{10} gagne {18} SP !
+1164	{11} gagne {18} SP !
+1165	Main de {10} dévoilée !
+1166	Main de {11} dévoilée !
+1167	Personnages remis en main !
+1168	{18} dégâts pour tous !
+1169	Personnages remis en pioche !
+1170	Tous les personnages sont KO !
+1171	La cible est KO !
+1172	Les joueurs perdent leurs SP !
+1173	Les joueurs défaussent\ntoute leur main !
+1174	Un personnage allié est KO.
+1175	@pare !
+1176	Lancer {13} ?\n@@@Oui@@@@@@@Non
+1177	Jouer {12} ?\n@@@Oui@@@@@@@Non
+1178	{10} gagne !!
+1179	{10} a perdu…
+1180	 : main
+1181	 : pioche
+1182	 : déf.
+1183	@Adversaire\n\n@Pioche@*\n@Main@@*\n@Déf.@@@*\n\n@Vous\n\n@Pioche@*\n@Main@@*\n@Déf.@@@*
+1184	{10} choisit l'effet\nde « {12} » !
+1185	{11} choisit l'effet\nde « {12} » !
+1186	Aucune cible sur le terrain.
+1187	{10} prend en main toutes\nles Q-Bee de sa pioche.
+1188	{11} prend en main toutes\nles Q-Bee de sa pioche.
+1189	{10} prend en main Juli\net Juni depuis sa pioche.
+1190	{11} prend en main Juli\net Juni depuis sa pioche.
+1191	@@Laisser dessus@@Infos\n@@Mettre dessous
+1192	Rien à défausser en main.
+1193	Choisissez qui reste en jeu.\n(Vos personnages)
+1194	Choisissez qui reste en jeu.\n(Personnages adverses)
+1195	Chaque joueur défausse les\ncartes personnage de sa main.
+1196	Chaque joueur défausse les\ncartes AC de sa main.
+1197	Toutes les capacités\ndeviennent « {13} »
+1198	{10} défausse toutes\nles cartes AC de sa main.
+1199	{11} défausse toutes\nles cartes AC de sa main.
+1200	{M 06 00 02 0b}{I 01 00 03 03 02 01}Main\n{I 07 00 04 04 00 02}Examiner\n{I 0e 00 05 05 01 00}Aide\n{I 01 01 00 00 05 04}Attaque\n{I 07 01 01 01 03 05}Capacité\n{I 0e 01 02 02 04 03}Fin\n
+1201	{M 04 00 02 0b}{I 02 00 02 02 01 01}Parer\n{I 0c 00 03 03 00 00}Carte RE\n{I 02 01 00 00 03 03}Ne pas parer\n{I 0c 01 01 01 02 02}Examiner\n
+1202	{M 02 00 00 0b}{I 02 00 00 00 01 01}Solo\n{I 0c 00 01 01 00 00}Combo 2\n
+1203	{M 03 00 00 0b}{I 02 00 02 02 01 01}Solo\n{I 0c 00 02 02 00 00}Combo 2\n{I 0c 01 01 01 02 02}Combo 3\n
+1204	{M 02 00 00 0b}{I 01 00 01 01 00 00}Utiliser\n{I 01 01 00 00 01 01}Infos\n
+1205	{M 04 00 00 0b}{I 02 00 02 02 01 01}Terrain\n{I 0c 00 03 03 00 00}Défausse\n{I 02 01 00 00 03 03}Situation\n{I 0c 01 01 01 02 02}Déf. adv.\n
+1206	{M 03 00 00 0b}{I 05 01 00 00 01 01}Oui\n{I 0a 01 01 01 00 00}Non\n{I 00 00 00 00 00 00}Parer cette attaque ?\n
+1207	{M 03 00 00 0b}{I 05 01 00 00 01 01}Oui\n{I 0a 01 01 01 00 00}Non\n{I 00 00 00 00 00 00}Lancer l'attaque ?\n
+1208	{M 03 00 01 0b}{I 03 01 00 00 01 01}Ma pioche\n{I 0c 01 01 01 00 00}Sa pioche\n{I 00 00 00 00 00 00}Choisissez une cible.\n
+1209	{M 03 00 00 0b}{I 03 01 00 00 01 01}Ma pioche\n{I 0c 01 01 01 00 00}Sa pioche\n{I 00 00 00 00 00 00}Choisissez une cible.\n
+1210	{M 03 00 01 0b}{I 05 01 00 00 01 01}Oui\n{I 0a 01 01 01 00 00}Non\n{I 00 00 00 00 00 00}Confirmer ?\n
+1211	{M 03 00 00 0b}{I 05 01 00 00 01 01}Oui\n{I 0a 01 01 01 00 00}Non\n{I 00 00 00 00 00 00}Confirmer ?\n
+1212	{M 02 00 00 0b}{I 01 00 01 01 00 00}Valider\n{I 01 01 00 00 01 01}Infos\n
+1213	{M 03 00 01 0b}{I 05 01 00 00 01 01}Oui\n{I 0a 01 01 01 00 00}Non\n{I 00 00 00 00 00 00}Utiliser « {13} » ?\n
+1214	{M 03 00 00 0b}{I 05 01 00 00 01 01}Oui\n{I 0a 01 01 01 00 00}Non\n{I 00 00 00 00 00 00}Utiliser « {13} » ?\n

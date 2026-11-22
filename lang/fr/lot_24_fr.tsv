@@ -1,0 +1,121 @@
+1215	{M 03 00 01 0b}{I 05 01 00 00 01 01}Oui\n{I 0a 01 01 01 00 00}Non\n{I 00 00 00 00 00 00}Jouer {12} ?\n
+1216	{M 03 00 00 0b}{I 05 01 00 00 01 01}Oui\n{I 0a 01 01 01 00 00}Non\n{I 00 00 00 00 00 00}Jouer {12} ?\n
+1217	{M 03 00 01 0b}{I 02 00 01 01 02 02}Laisser dessus\n{I 02 01 00 00 01 01}Mettre dessous\n{I 0c 00 01 01 00 00}Infos\n
+1218	{M 03 00 00 0b}{I 02 00 01 01 02 02}Laisser dessus\n{I 02 01 00 00 01 01}Mettre dessous\n{I 0c 00 01 01 00 00}Infos\n
+1219	{M 03 00 01 0b}{I 03 01 00 00 01 01}Personnage\n{I 0c 01 01 01 00 00}Joueur\n{I 00 00 00 00 00 00}Choisissez une cible adverse.\n
+1220	{M 03 00 00 0b}{I 03 01 00 00 01 01}Personnage\n{I 0c 01 01 01 00 00}Joueur\n{I 00 00 00 00 00 00}Choisissez une cible adverse.\n
+1221	{M 03 00 01 0b}{I 05 01 00 00 01 01}Oui\n{I 0a 01 01 01 00 00}Non\n{I 00 00 00 00 00 00}Animations de combat ?\n
+1222	{M 03 00 01 0b}{I 02 00 01 01 02 02}Mettre dessus\n{I 02 01 00 00 01 01}Mettre dessous\n{I 0c 00 01 01 00 00}Infos\n
+1223	{M 03 00 00 0b}{I 02 00 01 01 02 02}Mettre dessus\n{I 02 01 00 00 01 01}Mettre dessous\n{I 0c 00 01 01 00 00}Infos\n
+1290	 : main
+1291	 : pioche
+1292	 : déf.
+1293	Carte ciblée
+1300	BP de la cible modifiés !
+1301	Les personnages à 300 BP\nou moins sont renforcés !
+1302	Chaque joueur défausse\ndes cartes de sa pioche !
+1303	La pioche de {11}\nest vide !
+1304	{12} et\n{12} échangés !
+1305	Les personnages de {11}\nsubissent 200 dégâts !
+1306	Pioche et défausse échangées !
+1307	Main de {10} : examen…
+1308	Main de {11} : examen…
+1309	{10} n'a aucune\ncarte AC en main !
+1310	{11} n'a aucune\ncarte AC en main !
+1311	{10} n'a aucune\ncarte RE en main !
+1312	{11} n'a aucune\ncarte RE en main !
+1313	Choisissez la carte à prendre\nen main (reste {18}).
+1314	{10} paie {18} SP !
+1315	{11} paie {18} SP !
+1316	Chaque joueur défausse les\ncartes RE de sa main.
+1317	Personnage à défausser ?
+1318	Choisissez une RE à défausser.
+1319	Aucun personnage en face.
+1320	Les personnages qui ont un\nrenfort sont renforcés !
+1321	{12} et\n{12} renforcés !
+1322	{10} défausse toutes\nles cartes RE de sa main.
+1323	{11} défausse toutes\nles cartes RE de sa main.
+1324	Choisissez la carte\nà poser sur la pioche.
+1325	Toute la main de {10}\ndevient {12} !
+1326	Cartes RE interdites\npendant ce tour !
+1327	La pioche de {10}\nest vide !
+1328	La pioche de {11}\nest vide !
+1329	{10} n'a que des cartes\npersonnage en main !
+1330	{11} n'a que des cartes\npersonnage en main !
+1331	Choisissez une cible.\n(Personnage qui attaque)
+1332	« {13} » :\ncartes RE interdites !
+1333	{10} reprend ses cartes !
+1334	{11} reprend ses cartes !
+1335	{12} n'attaque pas.
+1336	Les personnages à 800 BP\nou plus retournent en main !
+1337	« {13} » : pas de\npersonnage à 800 BP ou plus !
+1338	{12} va sous\nla pioche de {10} !
+1339	{12} va sous\nla pioche de {11} !
+1340	Choisissez une cible.\n({18}e)
+1341	Parade impossible ce tour-ci !
+1342	Aucun personnage n'attaque.
+1345	Toute la main de {10}\ndevient {12} !
+1346	Toute la main de {11}\ndevient {12} !
+1347	Rien de valable en main !
+1348	Rien de valable en pioche !
+1349	Rien de valable en défausse !
+1350	Personne ne peut parer.
+1351	{1ED} capacité :\ndégâts +{18} !
+1352	La cible est renforcée !
+1500	Composez votre deck de jeu.
+1501	Un deck compte 50 cartes, avec\n3 exemplaires au plus par carte.
+1502	< Modifier un deck : étapes >
+1503	1. Dans « Atelier deck », ouvrez\nle « Menu cartes ».
+1504	2. Choisissez « Créer un deck ».
+1505	3. Choisissez le deck à modifier,\nou « Créer un nouveau deck ».
+1506	Avec « Créer un nouveau deck »,\nchoisissez « Auto » (BP les plus
+1507	élevés d'abord) ou « Aléatoire »\n(cartes tirées au hasard).
+1508	En mode Histoire, appuyez sur\nOPTION sur la carte du monde
+1509	pour ouvrir le\n« Menu cartes ».
+1520	En début de duel, le deck\nest mélangé,
+1521	et 5 cartes forment\nautomatiquement votre main.
+1522	Le reste forme la pioche.
+1523	Puis le premier et le second\njoueur sont tirés au sort.
+1524	Le premier joueur ne pioche pas\nà son tout premier tour.
+1530	À votre tour, faites ces 4\nactions dans l'ordre voulu :
+1531	{241}. Poser un personnage\n{242}. Renforcer un personnage
+1532	{243}. Jouer une carte Action\n{244}. Utiliser une {1EC} capacité
+1533	Après « Attaque », votre tour\nse termine automatiquement.
+1540	{241}. Poser un personnage
+1541	Un personnage par tour,\net 3 au plus sur le terrain.
+1542	Chaque personnage posé ajoute\nses « SP » à votre total.
+1550	{242}. Renforcer un personnage
+1551	En lui associant un personnage\nprécis, il gagne 300 BP.
+1552	Un seul personnage peut être\nrenforcé par tour.
+1553	Impossible sur un personnage\ntout juste posé ou figé.
+1560	{243}. Jouer une carte Action
+1561	Des cartes d'appoint pour\nprendre l'avantage en duel.
+1562	Avec assez de « SP », jouez-en\nà volonté à chaque tour.
+1570	{244}. Utiliser une {1EC} capacité
+1571	Le personnage se fige ensuite.
+1572	Un personnage tout juste posé\nou figé ne peut pas l'utiliser.
+1580	Il existe deux attaques :\n« Solo » et « Combo ».
+1581	Un personnage tout juste posé\nou figé ne peut pas attaquer.
+1582	Si l'attaque est parée,
+1583	on soustrait les BP de\nl'un à ceux de l'autre.
+1584	Si l'attaque n'est pas parée,
+1585	l'adversaire perd autant de PV\nque l'attaquant a de BP.
+1590	Avec plusieurs attaquants\npossibles, l'attaque combinée
+1591	coûte des SP mais inflige des\ndégâts perçants à l'adversaire.
+1592	En attaque combinée, les\n{1ED} capacités sont annulées.
+1595	Combo 2 : 5 SP.\nCombo 3 : 10 SP.
+1596	Même parée, une attaque\ncombinée qui garde des BP
+1597	ôte ce reste des PV adverses.
+1600	Les cartes Réaction\n(cartes RE)
+1601	sont des cartes Action jouables\npendant l'attaque adverse,
+1602	conçues pour déjouer les\ncalculs de l'adversaire.
+1603	Exemple : chacun a 200 PV, et\nvotre seul personnage a 200 BP.
+1604	Un personnage à 300 BP\nvous attaque.
+1605	Mal parti ? Avec la carte RE\n« Vacances » (+300 BP à un
+1606	personnage), vous le renforcez\net bloquez l'attaque adverse,
+1607	puis vous gagnez au tour\nsuivant !
+1608	Avec la carte Action « Éveil »,\nl'effet de surprise serait nul.
+1620	Le premier qui réduit les PV\nadverses à zéro gagne.
+1621	Et si, au début de votre tour,\nvotre pioche est vide,
+1622	vous perdez la partie.
+1650	@@Parer@@@@@@Examiner\n@@Ne pas parer@@Carte RE

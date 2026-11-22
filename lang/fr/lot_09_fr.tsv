@@ -1,0 +1,88 @@
+5740	{08 0D}J'espère que nous pourrons nous mesurer à nouveau.
+5795	C078@Tessa
+5796	C078@Tessa
+5800	{08 0E}Bonjour, {10}-san.
+5801	{08 0E}{M 04 01 11 0b}{I 04 02 00 00 00 01}Oui !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Je vous attendais.\n{I 00 01 00 00 00 00}Un duel, cela vous dirait ?\n
+5802	{08 0E}Voyons donc ce que vous valez.
+5803	{08 0E}Eh bien, à une prochaine fois.
+5804	{08 0E}À mon avis, vous devriez utiliser vos cartes Action de façon plus efficace.
+5805	{08 0E}Admirable. Prenez cette carte, je vous prie. Elle vous sera certainement utile.
+5806	{08 0E}{M 03 01 11 0b}{I 04 02 00 00 00 01}Oui !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Encore un duel, voulez-vous ?\n
+5810	{08 0E}Les cartes, c'est avant tout de la stratégie. Ne l'oubliez jamais.
+5820	{08 00}Comet-san n'est pas là… Bon, tant pis, je vais voir ailleurs…
+5830	{08 0E}Bonjour, {10}-san. ¶ Mon frère est d'une force redoutable : on n'en vient pas à bout si facilement.
+5831	{08 0E}{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Je peux vous entraîner,\n{I 00 01 00 00 00 00}si vous le voulez bien ?\n
+5832	{08 0E}« Paris ne s'est pas fait en un jour », comme on dit. Eh bien, commençons.
+5833	{08 0E}« On ne retient pas qui veut partir », comme on dit. J'attendrai le jour où vous reviendrez me voir.
+5834	{08 0E}Il s'en est fallu de peu. C'est dans les moments décisifs que l'acharnement fait la différence.
+5835	{08 0E}Admirable. Prenez cette carte, je vous prie. Elle vous sera certainement utile.
+5836	{08 0E}{M 03 01 11 0b}{I 04 02 00 00 00 01}Oui !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Encore un duel, voulez-vous ?\n
+5840	{08 0E}Mon frère… Je compte sur vous…
+5900	{08 02}Bonjouuur !
+5901	{08 10}Qu'est-ce qu'il y a, wassa ? Moi, je suis très occupée, là, wassa ! Si tu n'as rien à faire ici, tiens-toi tranquille, wassa !!
+5902	{08 02}Oh, pardooon de vous avoir dérangée…
+5910	{08 10}À la bonne heure, voilà qui est sage, wassa. Pour cette fois, je te pardonne, wassa.
+5911	{08 10}{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}En échange, tu m'aides\n{I 00 01 00 00 00 00}pour mes données, wassa !\n
+5912	{08 10}C'est parti pour le duel de cartes, wassa !
+5913	{08 10}Grrr ! Quelle réponse énervante, wassa !!
+5914	{08 10}J'ai gagné ! J'ai obtenu les données prévues, wassa !
+5915	{08 10}J'ai perdu ! Ce sont des données précieuses, wassa ! Tiens, voilà ta récompense, wassa !
+5916	{08 10}{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Ce n'est pas fini !\n{I 00 01 00 00 00 00}Encore des données, wassa !\n
+5920	{08 10}Bon, j'ai assez de données, wassa. Rentre chez toi, et plus vite que ça, wassa !
+5980	{08 00}Allez savoir pourquoi, me voilà au Powered Lab…
+5981	{08 10}Qu'est-ce que tu veeeux, wassa ?
+5982	{08 00}Et Nanako qui bricole encore je ne sais quoi.
+5983	{08 10}Qu'est-ce que tu marmonnes, wassa ? Et Sys, alors, wassa ? ¶ Ha ha ! Je vois ! Ton deck est trop faiblard et tu n'arrives pas à gagner, wassa ? ¶ Alors toi, tu vas devenir le « testeur » de mon « dé-dé-détecteur de caaartes », wassa !!
+5984	{08 00}« Dé-dé-détecteur de caaartes » ?
+5985	{08 10}Si c'est trop dur à dire, « détecteur » suffira, wassa. ¶ Regarde, wassa ! Ce « détecteur », c'est un appareil qui cherche des cartes, wassa ! ¶ Il trouve les cartes comme un sourcier trouve l'eau, wassa ! ¶ Utilise-le là où il y a des ondes radio, et hop, une carte ! Le bonheur total, wassa ! ¶ Son seul défaut : il ne marche pas sans « l'Unité sans fil » et la carte « ESP », wassa. Ça, c'est à toi de te débrouiller, wassa ! ¶ Je rendrai le « détecteur » accessible depuis « VS.NET », dans le menu principal, wassa.
+5986	{08 00}Je l'essaierai peut-être, si l'envie m'en prend.
+5987	{08 10}C'est ça, fais donc, wassa ! …Bon, bon, moi, je suis très occupée, wassa. Allez, file, wassa !
+6000	{08 0B}Yo ! Comment ça va ? T'es devenu un peu plus fort ?
+6001	{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Parfait ! Duel de cartes !!\n{I 00 01 00 00 00 00}Sors tes cartes !\n
+6002	{08 0B}Parfait ! Alors, c'est parti ! T'as beau être mon disciple, je te ferai pas de cadeau !
+6003	{08 0B}Hé, quoi ?! Tu manques de mordant, là !
+6004	{08 0B}Parfait ! J'ai gagné !! Alors ? C'est quoi, ce jeu mollasson ?
+6005	{08 0B}T'as du cran, toi ! …Allez, prends ça !
+6006	{08 0B}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Et si on remettait ça ?\n
+6010	{08 0B}Avec un niveau pareil, tu deviendras jamais un vrai Card Fighter ! ¶ Bah, tant pis. Si ça tourne mal, compte sur moi ! Mon flingue va cracher le feu !
+6020	{08 00}B'jour ! Shin-san !! ¶ {08 80}………… ¶ {08 00}Tiens ? D'habitude, il débarque à ce moment-là en lançant un « Yo ! »… ¶ …Il est encore parti fouiller les brocantes pour sa « collection américaine » ? ¶ …Ça sert à rien de rester là. Je m'en vais.
+6021	{08 80}(BOUM !)
+6022	{08 00}Hein ? C'est quoi, ce bruit ?! ¶ ……… ¶ Qu'est-ce que c'est que ça ?! Une poutre métallique est tombée du plafond ? ¶ C'est du joli. Du travail bâclé, c'est sûr. ¶ Le promoteur qui voulait construire ici va avoir des ennuis, non ? ¶ Je ferais mieux de filer vite fait… Hé, attends… L'entrée est bloquée, ou quoi ? ¶ ……… ¶ Hmm, tout seul, je peux rien y faire… La galère ! ¶ Si seulement quelqu'un était là… ¶ …Franchement, ne pas être là dans un moment pareil… Il sert vraiment à rien, Shin-san !
+6023	{08 1E}Mwa ha ha ha ha ha ha ha ha ha ha ha !
+6024	{08 0F}Le ciel m'appelle, la terre m'appelle, le peuple m'appelle ! Je ne puis ignorer ceux qui sont dans la détresse. ¶ Le mystérieux Card Fighter, cool et classe ! Neomanto fait son entrée !
+6025	{08 00}…Neomanto ? Qu'est-ce que tu fais là ?
+6026	{08 0F}Hu hu hu hu… Qu'une voix m'appelle, et j'accours, fût-ce du bout du monde ! ¶ Et autre chose ! {10}-kun ! ¶ Shin-kun est parti il y a peu, pour une affaire de la plus haute importance et de la plus grande urgence ! ¶ Il doit être fort chagriné de ne pouvoir te prêter main-forte dans un moment si critique !
+6027	{08 00}Euh…
+6028	{08 0F}Hu hu hu hu… Mais sois sans crainte ! ¶ Maintenant que je suis là, une ou deux poutres de ce genre…
+6029	{08 0F}…Hmpf !
+6030	{08 80}(CRAC !)
+6031	{08 00}Hé ! Ça va, Neomanto ? Il y a eu comme un drôle de bruit, là !
+6032	{08 0F}Mwa ha ha ha… ha… ha… Ce-ce n'est rien du tout ! ¶ Un justicier ne saurait flancher pour si peu ! ¶ Fie-toi entièrement à moi !
+6033	{08 0F}…Hmpf !! Nnngh… Grrr… Tu te défends bien, toi, la poutre ! ¶ …Pfiouh ! Haa, haa, haa, haa, haa… Pff, pff, pff…
+6034	{08 0F}Ngh… Puisqu'il en est ainsi, mon pistolet de la justice va percer ce mur de part en part !
+6035	{08 00}Un pistolet ?! Pas un vrai, quand même ? Hé, hé, attends !
+6036	{08 0F}L'heure est venue pour ce pistolet de cracher le feu !
+6037	{08 00}Attends un peuuu !!! ¶ Hé, Neomanto ! Regarde bien là-bas ! Il y a une sortie de secours, non ?
+6038	{08 0F}Quoi ?! ¶ …Ah, c'est vrai. Je l'avais complètement oublié. Mwa ha ha ha ha ha ha ha ha ha ! ¶ {10}-kun, grâce à toi, ma mission s'est achevée sans encombre ! ¶ Pour te remercier, je vais te confier un petit secret ! ¶ Dans « Duel libre », au menu principal, place le curseur sur Shin-kun ! ¶ Puis appuie sur le bouton OPTION et… Hu hu hu, il se passera quelque chose d'intéressant. ¶ Sur ce, à la prochaine ! …Adieu !!
+6039	{08 0F}Mwa ha ha ha ha ha ha ha ha ha ha ha !
+6040	{08 80}…………
+6041	{08 00}Shin-san, et maintenant Neomanto… Y a pas mal de gens qui se baladent avec un flingue, on dirait. ¶ …Bah, peu importe. Je rentre.
+6100	{08 02}Il y a vraiment un nombre incroyable de gardes, vous ne trouvez pas… ?
+6101	{08 00}Hmm, qu'est-ce qu'on va bien pouvoir faire…
+6110	{08 02}Il y a vraiment un nombre incroyable de gardes, vous ne trouvez pas… ?
+6111	{08 16}L'occasion se présentera forcément, Honey !
+6112	{08 02}Si vous le dites…
+6200	{08 00}Personne… ¶ Oups, j'ai pas le temps de traîner ! Il faut vite battre Sys !
+6201	{08 80}{M 05 00 13 0b}{I 01 01 02 02 01 01}Le club\n{I 0a 01 03 03 00 00}Le bureau\n{I 01 02 00 00 03 03}Le toit\n{I 0a 02 01 01 02 02}Sortir\n{I 00 00 04 04 04 04}Où voulez-vous aller ?\n
+6202	{08 80}{M 03 00 11 0b}{I 01 01 00 00 01 01}Repaire C.O.F\n{I 0b 01 01 01 00 00}Sortir\n{I 00 00 04 04 04 04}Où voulez-vous aller ?\n
+6203	{08 80}{M 03 00 11 0b}{I 01 01 00 00 01 01}Salle des duels\n{I 0b 01 01 01 00 00}Sortir\n{I 00 00 04 04 04 04}Où voulez-vous aller ?\n
+6210	{08 00}Waouh ! Robomanto ?! Qu'est-ce que tu fais là ?!
+6211	{08 11}Mwa ha ha ha ha ha ha ha ha ha… …Pfff… robo… ¶ Je me suis perdu, robo… ¶ Hé, toi, là-bas ! Où se trouve la société « VS. Entertainment », robo ?
+6212	{08 00}…Ah, euh… Tout au nord de la ville…
+6213	{08 11}Merci, robo ! Tu es un brave garçon, robo ! Pour te remercier, je vais te confier un secret, robo ! ¶ Dans « Duel libre », au menu principal, place le curseur sur Nanako, robo. ¶ Puis appuie sur le bouton OPTION, et tu pourras m'affronter, robo ! Sur ce, adieu, robo !
+6214	{08 11}Mwa ha ha ha ha ha ha ha ha ha ! …Robo !
+6215	{08 80}………… ¶ ………… ¶ …………
+6216	{08 00}Zut ! Je l'ai regardé partir sans réagir ! ¶ …Bah, tant pis. Pour l'instant, faut que je batte Sys !
+6220	{08 11}Mwa ha ha ha ha ha ha ha ha ha… …Pfff… robo… ¶ Je me suis encore perdu, robo…
+6230	{08 11}Hé, toi, là-bas ! Pour cette fois, je te donne une carte en cadeau, robo ! Affronte-moi, robo !
+6231	{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Sors vite tes cartes, robo !\n

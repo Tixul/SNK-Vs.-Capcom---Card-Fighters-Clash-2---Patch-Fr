@@ -1,0 +1,112 @@
+5252	{08 00}Traîner sur le toit, c'est vraiment idiot… ¶ Allons ailleurs.
+5260	{08 80}(Zip zip zip zip zip zip !) ¶ {08 08}Ça ne fera pas mal, promis ! Laissez-vous toucher !
+5261	{08 00}Menteuse !!
+5262	{08 04}Hein ? Qu'est-ce que tu fabriques ?
+5263	{08 06}??? Qu'est-ce qui se passe, hein ?
+5264	{08 05}…Merci pour le spectacle…
+5300	{08 07}Hm ? Te revoilà donc ?
+5301	{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Ainsi, tu veux te mesurer\n{I 00 01 00 00 00 00}à moi, foi de ninja ?\n
+5302	Goûte donc à mon art ninja, désormais « renforcééé », foi de ninja !
+5303	Je n'ai que faire des badauds, foi de ninja ! Je suis fort occupé à préparer mon numéro d'acrobatie !
+5304	{08 07}Je suis un homme qui suit la voie du ninja. Jamais je ne perds deux fois, foi de ninja !
+5305	{08 07}Hmm, vaincu une fois de plus… Si une carte ramassée par terre ne te rebute pas, prends donc celle-ci, foi de ninja.
+5306	{08 07}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Un autre duel, foi de ninja ?\n
+5310	{08 02}Fuwa-san fait des acrobaties ! Ouah, il est vraiment doué !
+5320	{08 02}Fuwa-san fait des acrobaties ! Ouah, il est vraiment doué !
+5321	{08 00}Ah… Il s'est vautré…
+5330	{08 02}Il n'y a personne… Allons ailleurs !
+5340	{08 00}Tiens ? Il n'y a personne… Allons ailleurs…
+5350	{08 07}Notre Yashichi t'a causé bien du tracas, j'en suis navré, foi de ninja.
+5351	{08 07}{M 04 00 13 0b}{I 01 01 02 02 01 01}Affronter Fuwa\n{I 0a 01 01 01 00 00}Affronter Yashichi\n{I 01 02 00 00 01 01}Rien\n{I 00 00 04 04 04 04}Que me veux-tu donc ?\n
+5352	{08 07}Vraiment ? Alors, sois un bon ami pour Yashichi, je t'en prie, foi de ninja.
+5360	{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Ainsi, tu veux te mesurer\n{I 00 01 00 00 00 00}à moi, foi de ninja ?\n
+5361	{08 07}Bien ! En duel, foi de ninja !
+5362	{08 07}Hm, tu renonces… Eh bien, soit. Cela me convient aussi.
+5363	{08 07}Hu hu hu ! Frapper l'adversaire là où il est faible, c'est la grande spécialité du ninja !
+5364	{08 07}Hmm, vaincu une fois de plus… Si une carte ramassée par terre ne te rebute pas, prends donc celle-ci, foi de ninja.
+5370	{08 08}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 04 04 04 04}Alors, on fait un duel ?\n
+5371	Allons-y ! Cette fois encore, je vais vous faire tourner la tête, {10}-san !
+5372	Toujours aussi distant… Mais ça aussi, c'est char-mant !
+5373	{08 08}J'ai gagné ! Votre cœur est à moi !
+5374	{08 08}Cette carte, gardez-la précieusement, en pensant à moi !
+5400	{08 09}Salut, {10} !! Alors, comment va ton deck ?
+5401	{08 09}Qu'est-ce que tu veux faire ?\n{09}Duel\nBoutique
+5402	{08 09}Repasse quand tu veux !
+5405	{08 09}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Parfait ! Je t'attends !\n
+5406	{08 09}Parfait ! Vas-y !
+5407	{08 09}Quoi ?! T'as la trouille ?! …Reviens quand tu seras prêt !
+5408	{08 09}Quoi ?! Si c'est tout ce que tu sais faire, ça promet ! Retourne t'entraîner !!
+5409	{08 09}Hmm, t'as fait de sacrés progrès. Bien, je te donne cette carte !
+5410	{08 09}Merci bien !
+5420	{08 00}Kido-san ! Pousse-toi, pousse-toi !!
+5421	{08 09}Qu'est-ce qui se passe ?!
+5422	{08 08}Oh, il est plutôt mon genre… Ah, {10}-san ! Vous ne m'échapperez pas !
+5423	{08 09}Je sais pas ce qui se passe, mais courage ! En tout, c'est la forme qui compte !
+5480	{08 09}Salut, {10} ! Tu tombes à pic !
+5481	{08 00}Hein ? Qu'est-ce qui se passe ?
+5482	{08 09}Ouais ! Ces temps-ci, le « Lost World » d'en face me fait de l'ombre… ¶ Alors j'ai pensé faire des « soldes » !! ¶ Pendant les soldes, n'importe quelle carte en vente, je te l'échange contre 3 cartes de rareté C ou plus !
+5483	{08 00}Pas mal ! Venant de toi, Kido-san, c'est plutôt une bonne idée, non ?
+5484	{08 09}Wa ha ha ! Arrête, tu vas me faire rougir ! ¶ Désormais, je ferai des soldes quand ça me chantera. Tu m'en diras des nouvelles ! ¶ Bon, rien ne vaut un essai ! Va donc jeter un œil tout de suite !!
+5500	{08 0A}Aïyaa, {10} ! Entrez, entrez !!
+5501	{08 0A}Que voulez-vous faire, aru ?\n{09}Duel\nÉchanges
+5502	{08 0A}Revenez vite, aru !
+5505	{08 0A}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Alors, en duel, aru !\n
+5506	{08 0A}Je ne ferai pas de cadeau, ne !
+5507	{08 0A}Aïyaa, dommage, aru… Revenez une autre fois, ne !
+5508	{08 0A}Ouah ! C'est moi qui gagne, aru ! Youpi, aru !
+5509	{08 0A}Aïyaa, j'ai perdu, aru… Mais c'était amusant, ne ! Prenez donc cette carte, aru !
+5510	{08 0A}Merci, aru !
+5520	{08 0A}Aïyaa, {10} ! Entrez, entrez !!
+5521	{08 00}Je suis pressé, là !! Une autre fois !!
+5522	{08 08}(Zip zip zip zip zip zip !)
+5523	{08 0A}Aïyaa… J'aimerais bien qu'on ne plante pas de shuriken dans ma marchandise, aru…
+5600	{08 0B}Holà ! Sans recommandation d'un membre, on ne passe pas !
+5601	{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}À moins que tu veuilles\n{I 00 01 00 00 00 00}défier le grand Shin ?\n
+5602	{08 0B}Parfait ! Alors, c'est parti ! Prépare-toi !
+5603	{08 0B}Alors, file, file ! J'ai pas de temps à perdre avec les curieux !
+5604	{08 0B}Ouais ! J'ai gagné !! À la fin, ce qui compte, c'est le cran !!
+5605	{08 0B}Bon sang ! J'ai perdu !! Tiens, prends ça ! Ça pourrait te servir !
+5606	{08 0B}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}On remet ça ?\n
+5610	{08 0C}Yo ! Te revoilà ? ¶ …Au fait, t'as pas vu Shin ? Cet abruti, il est encore allé tirer au flanc… ¶ Bon, qu'est-ce qui t'amène aujourd'hui ?
+5620	{08 0C}Bienvenue… ? Ah, yo ! Te revoilà ?
+5621	{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}T'as l'air de t'ennuyer…\n{I 00 01 00 00 00 00}Un petit duel de cartes ?\n
+5622	{08 0C}Voilà qui me plaît ! Allez, c'est parti !
+5623	{08 0C}Quoi, t'es pas drôle ! Bah, la prochaine fois, je te lâcherai pas !
+5624	{08 0C}Hein ? C'est tout ? Mets-y un peu plus de cœur !
+5625	{08 0C}Eh ben, tu te débrouilles bien ! Pourvu que cette carte renforce ton deck d'un coup… boum !
+5626	{08 0C}{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}On remet ça ?\n{I 00 01 00 00 00 00}Moi, je suis partante !\n
+5630	{08 0C}Alors, tu prends un petit verre ? ¶ Le Vanguard, c'est un club pour adultes, mais on a aussi plein de boissons sans alcool !
+5631	{08 02}Avec plaisir ! C'est vous qui offrez, Kei-san, n'est-ce pas ?
+5632	{08 0C}…Bon, ciao !
+5633	{08 02}Ah… Elle s'est sauvée…
+5640	{08 08}(Zip zip zip zip zip zip !)
+5641	{08 00}Waah !
+5642	{08 0B}Wouah ! C'est quoi, ce raffut ?
+5643	{08 00}Pff, pff… Je… je vais y passer !!
+5644	{08 0C}Tiens, tiens… T'as du succès, dis donc ! Espèce de bourreau des cœurs !!
+5645	{08 00}C'est un ma… malentendu !!
+5650	{08 00}Tiens ? Il n'y a personne… Kei-san et Shin tirent au flanc ? ¶ Allons ailleurs…
+5655	{08 02}Tiens ? Kei-san et Shin-san ne sont pas là ? Ils font une pause en douce, vous croyez ? ¶ Allons ailleurs !
+5660	{08 0C}Bienvenuuue ! Justement, je m'ennuyais.
+5661	{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Alors, place au duel !\n
+5662	{08 0C}Voilà qui me plaît ! Allez, c'est parti !
+5663	{08 0C}Quoi, t'es pas drôle ! Bah, la prochaine fois, je te lâcherai pas !
+5664	{08 0C}Hein ? C'est tout ? Mets-y un peu plus de cœur !
+5665	{08 0C}Eh ben, tu te débrouilles bien ! Pourvu que cette carte renforce ton deck d'un coup… boum !
+5666	{08 0C}{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}On remet ça ?\n{I 00 01 00 00 00 00}Moi, je suis partante !\n
+5670	{08 0C}Alors, reviens nous voir, hein !
+5700	{08 02}Les plats de la fête étaient délicieux, n'est-ce pas ? ¶ Le futur mari de Haruna, il faudrait qu'il soit riche, comme Cap-san !
+5720	{08 0D}Hmf… Encore toi…
+5721	{08 00}…Cap ! C'est donc ici que tu étais ?
+5722	{08 0D}C'est ici que je fais les démarches d'indemnisation pour les cartes volées par Robomanto… ¶ Mais à voir ta tête, Comet t'a tout raconté. ¶ C'est vrai, cette fois, c'est mon petit frère, Sys, qui est à l'origine de toute cette agitation… ¶ Mais c'est une affaire entre frères. Je te prie de ne pas t'en mêler davantage.
+5723	{08 00}Arrivé jusqu'ici, pas question de répondre « Bon, d'accord » et de laisser tomber ! ¶ Et puis Comet-san nous a demandé notre aide !
+5724	{08 0D}Hmf… On dirait que je ne te ferai pas changer d'avis… ¶ Mais laisse-moi te donner un conseil. ¶ Mon frère… Sys est « fort ». Tel que tu es maintenant, tu ne pourrais pas le battre…
+5725	{08 00}………
+5726	{08 0D}Hmf… C'est pourquoi je serai ton adversaire… ¶ Je connais le jeu de mon frère : je pense être l'adversaire idéal pour toi…
+5730	{08 0D}Ah, merci pour tout à l'heure…
+5731	{08 0D}{M 03 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Que dirais-tu d'un duel ?\n
+5732	Hmf… Commençons…
+5733	Je vois…
+5734	{08 0D}Se laisser abattre ne sert à rien. Pense plutôt à gagner la prochaine fois.
+5735	{08 0D}C'est ta victoire… Sauras-tu te servir de cette carte ?
+5736	{08 0D}{M 04 01 11 0b}{I 04 02 00 00 00 01}Ouais !\n{I 0b 02 01 01 00 01}Non !\n{I 00 00 00 00 00 00}Si tu le souhaites,\n{I 00 01 00 00 00 00}on peut recommencer…\n
